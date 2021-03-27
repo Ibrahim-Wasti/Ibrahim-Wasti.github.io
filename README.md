@@ -43,4 +43,4 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group. The dataset had many features such as, city, experience, education level, etc. I used XGBoost to create the model, and Pandas and Seaborn to visualize and explore the data.  The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
 
 
-*Further detail for all projects can be found by clicking their respective __Repo__ links found beneath the title of every project. To view the notebooks where the code was written please click on the __nbviewer__ link which will show you the notebook using JupyterLab's online interface. 
+__Further detail for all projects can be found by clicking their respective **Repo** links found beneath the title of every project. To view the notebooks where the code was written please click on the **nbviewer** link which will show you the notebook using JupyterLab's online interface.__ 
