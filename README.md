@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Data Analytics Portfolio by Ibrahim Wasti
 
-You can use the [editor on GitHub](https://github.com/Ibrahim-Wasti/Ibrahim-Wasti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks which I used for exploratory data analysis, dashboard creation, and building models. Each section will have different projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Exploratory Analytics Projects
 
-### Markdown
+#### Sales Analysis 
+[nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Sales-Data-Analysis/blob/main/Sales_Analysis.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project done for class, an analysis of sales for 2019 of an e-commerce company. Merged 12 files of sales data into one dataframe using the OS and Pandas libraries. Visualizations were created using MatPlotLib. Answered different questions to gain insights into the data and come to conclusions that would effect the company's strategy in marketing and staffing.
 
-```markdown
-Syntax highlighted code block
+#### Netflix: Movies& TV Shows 
+[nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA/blob/main/Netflix%20TV%20Shows%20%26%20Movies%20EDA.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+This was a dataset which provided information on different aspects of the content on Netflix, from the director and cast to the availability by country. Tasks were to show top acotrs/directors, top countries by number of productions, amount of content for each age group, etc. All these questions were answered uding a combination of Pandas, Seaborn, and Matplotlib. The general datset and more information can be found on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
 
-- Bulleted
-- List
+#### Dashboard with Power BI
 
-1. Numbered
-2. List
+### Regression Problems
+
+#### NBA Hollinger Player Efficiency Rating - Prediction
+
+### Classification Problems
+
+#### HR Analytics: Data Scientists who change their jobs - Classification
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ibrahim-Wasti/Ibrahim-Wasti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
