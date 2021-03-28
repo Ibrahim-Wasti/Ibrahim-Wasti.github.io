@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Home</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Data Analytics Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HR Analytics - Data Science Professionals</title>
+      <link>https://example.com/post/hr-analytics/</link>
+      <pubDate>Sun, 14 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://example.com/post/hr-analytics/</guid>
+      <description>Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group.
+ Loaded, manipulated, and prepared the data for exploration using Pandas. Exploratory data analysis conducted using Pandas and visualizations done using Seaborn and Matplotlib. Prepared the data for classification using Scikit Learn. Created a Calssifier with XGBoost, and performed hyper-parameter tuning using GridSearch and cross validation.</description>
+    </item>
+    
+    <item>
+      <title>NBA Hollinger&#39;s Player Efficiency Rating(PER) - Predictor</title>
+      <link>https://example.com/post/nba_per_prediction/</link>
+      <pubDate>Sat, 13 Mar 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://example.com/post/nba_per_prediction/</guid>
+      <description>Used XGBoost Regressor to predict Hollinger&amp;rsquo;s Player Efficiency Rating with a very low RMSE of 1.091 which indicates high accuracy.
+  Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger website to create a dataset of players with 12 features, Player Efficiency Rating (PER) being the target variable.
+  Saved the data as a list of dictionaries to a json file for easy loading in and conversion to a data frame when conducting data exploration, analysis, and modelling.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Sales and Marketing dashboard.</title>
+      <link>https://example.com/post/dashboard_bi/</link>
+      <pubDate>Wed, 24 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://example.com/post/dashboard_bi/</guid>
+      <description>Sales and Marketing dashboard with Microsoft Power BI
+Created a Power BI dashboard in accordance with business request from client:
+ Visualizing KPIs Sales analysis of total revenue, revenue by product, and revenue by employee Customer analysis by region and sales Extracted the data from Microsoft SQL Server (example of one query below) Created a data model in Power BI and prepared the data for visualization and analysis Visualized the different parameters and measurements using a variety of charts, graphs, and other tools available through Power BI.</description>
+    </item>
+    
+    <item>
+      <title>Netflix Movies and TV shows EDA</title>
+      <link>https://example.com/post/netflix_eda/</link>
+      <pubDate>Mon, 15 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/netflix_eda/</guid>
+      <description>Exploratory Data Analysis of Movies and TV Shows on Netflix
+Conducted EDA of Netflix Movies and TV Shows data using the following tools:
+ Pandas for loading in, exploring, and manipulating the data (along with some numpy) Missingno to understand where the missing data in my dataset is Seaborn, Matplotlib, and Plotly used for visualizations  Questions answered:
+ Distribution of Movies vs. TV Shows on Netflix Which countries have the most productions available Which target audience has the most content produced for them Distribution of movie length time and TV show lifespan Pattern of content added to the platform over the years Looking at productions for both movies and TV shows over the past 10 years Understanding distribution of productions added monthly over the years Breakdown of top genres for both movies and TV Shows     Link to GitHub Repository In case the notebook(s) do not load properly on GitHub, below is a link to view the notebook.</description>
+    </item>
+    
+    <item>
+      <title>Sales Analysis for an e-commerce company</title>
+      <link>https://example.com/post/sales_analysis/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/sales_analysis/</guid>
+      <description>Project done for class, an analysis of sales for 2019 of an e-commerce company.
+Merged 12 files of sales data into one data frame using the OS and Pandas libraries. Visualizations were created using MatPlotLib.
+Answered different questions to gain insights into the data:
+ What is the best month for sales? How much was earned? Which city had the highest number of sales? What time should we display advertisements to maximize likelihood of customer&amp;rsquo;s buying product?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>   Platform Information     Email: ibrahim.wasti98@gmail.com   Phone: +1 (609)-273-4139   LinkedIn: https://www.linkedin.com/in/ibrahim-w-5baa51b3/   GitHub: https://github.com/Ibrahim-Wasti    </description>
+    </item>
+    
+  </channel>
+</rss>
