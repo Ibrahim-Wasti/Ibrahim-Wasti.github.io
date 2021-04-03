@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of notebooks which I used for exploratory data analysis, dashboard creation, and building models. Each section will have different projects.
 
-### Exploratory Analytics Projects
+## Exploratory Analytics Projects
 
 #### Sales Analysis 
 [nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Sales-Data-Analysis/blob/main/Sales_Analysis.ipynb)  [Repo](https://github.com/Ibrahim-Wasti/Sales-Data-Analysis)
@@ -23,7 +23,7 @@ Created a Power BI dashboard in accordance with businees request from client:
 - Customer analysis by region and sales
 Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo). Created a data model in Power BI and prepared the data for visualization and analysis. Visualized the different parameters and metrics using a variety of charts, graphs, and other tools available through Power BI.
 
-### Regression Problems
+## Regression Problems
 
 #### NBA Hollinger Player Efficiency Rating - Prediction
 [nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/NBA-Hollinger-Player-Efficiency-Rating/blob/main/Exploratory%20Analysis%20and%20Modeling.ipynb)  [Repo](https://github.com/Ibrahim-Wasti/NBA-Hollinger-Player-Efficiency-Rating)
@@ -35,7 +35,7 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 - Modelled using SK-Learn for a base accuracy score (measured by RMSE) to see if XGB would give better results.
 - XGB Regressor performed with a higher accuracy (lower RMSE) than the SK-Learn model.
 
-### Classification Problems
+## Classification Problems
 
 #### HR Analytics: Data Scientists who change their jobs - Classification
 [nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/DataScience-HR-Analytics/blob/main/Data%20Science%20HR%20Analytics%20EDA.ipynb)  [Repo](https://github.com/Ibrahim-Wasti/DataScience-HR-Analytics)
