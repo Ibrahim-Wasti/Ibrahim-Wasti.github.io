@@ -52,4 +52,6 @@ Analysis of Data Scientists who changed their jobs. Created a classifier with an
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p>
 
+<p><hr style="border:2px solid black" /></p>
+
 _Further detail for all projects can be found by clicking their respective **Repo** links found beneath the title of every project. To view the notebooks where the code was written please click on the **nbviewer** link which will show you the notebook using JupyterLab's online interface._ 
