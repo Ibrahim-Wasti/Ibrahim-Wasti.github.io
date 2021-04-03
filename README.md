@@ -9,7 +9,7 @@ This portfolio is a compilation of notebooks which I used for exploratory data a
 
 Project done for class, an analysis of sales for 2019 of an e-commerce company. Merged 12 files of sales data into one dataframe using the OS and Pandas libraries. Visualizations were created using MatPlotLib. Answered different questions to gain insights into the data and come to conclusions that would effect the company's strategy in marketing and staffing.
 
-<img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/SalesAnalysis.png" alt="drawing" width="200" height="200>
+<p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/SalesAnalysis.png" width="500" height="400" />/p>
 
 
 #### Netflix: Movies & TV Shows 
