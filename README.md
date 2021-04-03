@@ -13,8 +13,6 @@ Project done for class, an analysis of sales for 2019 of an e-commerce company. 
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/SalesAnalysis.png" width="500" height="400" /></p>
 
-![](./images/SalesAnalysis.png)
-
 ### Netflix: Movies & TV Shows 
 [nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA/blob/main/Netflix%20TV%20Shows%20%26%20Movies%20EDA.ipynb) [Repo](https://github.com/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA)
 
