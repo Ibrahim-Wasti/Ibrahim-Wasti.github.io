@@ -2,6 +2,8 @@
 
 This portfolio is a compilation of notebooks which I used for exploratory data analysis, dashboard creation, and building models. Each section will have different projects.
 
+----
+
 ## Exploratory Analytics Projects
 
 ### Sales Analysis 
@@ -29,6 +31,8 @@ Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p>
 
+----
+
 ## Regression Problems
 
 ### NBA Hollinger Player Efficiency Rating - Prediction
@@ -42,6 +46,8 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 - XGB Regressor performed with a higher accuracy (lower RMSE) than the SK-Learn model.
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NBA_PER_PC.png" width="400" height="400" /></p>
+
+----
 
 ## Classification Problems
 
