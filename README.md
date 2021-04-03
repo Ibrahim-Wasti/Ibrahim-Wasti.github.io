@@ -4,6 +4,8 @@ This portfolio is a compilation of notebooks which I used for exploratory data a
 
 ----
 
+![](https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/SalesAnalysis.png)
+
 ## Exploratory Analytics Projects
 
 ### Sales Analysis 
