@@ -33,7 +33,7 @@ Created a Power BI dashboard in accordance with businees request from client:
 - Customer analysis by region and sales
 Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo). Created a data model in Power BI and prepared the data for visualization and analysis. Visualized the different parameters and metrics using a variety of charts, graphs, and other tools available through Power BI.
 
-<p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p>
+<!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p> --->
   
 <p><img src="./images/Dashboad.PNG" width="475" height=275" /></p> 
 
@@ -64,7 +64,7 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 
 Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group. The dataset had many features such as, city, experience, education level, etc. I used XGBoost to create the model, and Pandas and Seaborn to visualize and explore the data.  The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
 
-<p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p>
+<!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
 
 <p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p>
 
