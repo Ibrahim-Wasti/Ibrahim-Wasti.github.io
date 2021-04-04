@@ -16,7 +16,7 @@ Project done for class, an analysis of sales for 2019 of an e-commerce company. 
 <p><img src="./images/SalesAnalysis.png" width="500" height="400" /></p>
 
 ### Netflix: Movies & TV Shows 
-[nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA/blob/main/Netflix%20TV%20Shows%20%26%20Movies%20EDA.ipynb target="_blank") [Repo](https://github.com/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA)
+[nbviewer](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA/blob/main/Netflix%20TV%20Shows%20%26%20Movies%20EDA.ipynb) [Repo](https://github.com/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA)
 
 This was a dataset which provided information on different aspects of the content on Netflix, from the director and cast to the availability by country. Tasks were to show top acotrs/directors, top countries by number of productions, amount of content for each age group, etc. All these questions were answered uding a combination of Pandas, Seaborn, and Matplotlib. The general datset and more information can be found on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
 
