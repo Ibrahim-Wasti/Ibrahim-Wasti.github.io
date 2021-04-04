@@ -20,7 +20,9 @@ Project done for class, an analysis of sales for 2019 of an e-commerce company. 
 
 This was a dataset which provided information on different aspects of the content on Netflix, from the director and cast to the availability by country. Tasks were to show top acotrs/directors, top countries by number of productions, amount of content for each age group, etc. All these questions were answered uding a combination of Pandas, Seaborn, and Matplotlib. The general datset and more information can be found on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
 
-<p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NEtflix-g.png" width="500" height="400" /></p>
+<!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NEtflix-g.png" width="500" height="400" /></p> --->
+
+<p><img src="./images/NEtflix-g.png" width="500" height="400" /></p> 
 
 ### Sales & Marketing Dashboard using Power BI
 [Repo](https://github.com/Ibrahim-Wasti/Dashboard-with-PowerBI)
@@ -32,6 +34,8 @@ Created a Power BI dashboard in accordance with businees request from client:
 Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo). Created a data model in Power BI and prepared the data for visualization and analysis. Visualized the different parameters and metrics using a variety of charts, graphs, and other tools available through Power BI.
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p>
+  
+<p><img src="./images/Dashboad.PNG" width="475" height=275" /></p> 
 
 ----
 
@@ -47,7 +51,9 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 - Modelled using SK-Learn for a base accuracy score (measured by RMSE) to see if XGB would give better results.
 - XGB Regressor performed with a higher accuracy (lower RMSE) than the SK-Learn model.
 
-<p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NBA_PER_PC.png" width="400" height="400" /></p>
+<!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NBA_PER_PC.png" width="400" height="400" /></p> --->
+
+<p><img src="./images/NBA_PER_PC.png" width="400" height="400" /></p>
 
 ----
 
@@ -59,6 +65,8 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group. The dataset had many features such as, city, experience, education level, etc. I used XGBoost to create the model, and Pandas and Seaborn to visualize and explore the data.  The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
 
 <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p>
+
+<p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p>
 
 <p><hr style="border:2px solid black" /></p>
 
