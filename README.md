@@ -34,8 +34,8 @@ Created a Power BI dashboard in accordance with businees request from client:
 Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo). Created a data model in Power BI and prepared the data for visualization and analysis. Visualized the different parameters and metrics using a variety of charts, graphs, and other tools available through Power BI.
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p> --->
-  
-<p><img src="./images/Dashboad.PNG" width="475" height=275" /></p> 
+
+<p><img src="./images/Dashboad.PNG" width="475" height="275" /></p> 
 
 ----
 
