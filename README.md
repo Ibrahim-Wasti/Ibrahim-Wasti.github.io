@@ -55,6 +55,17 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 
 <p><img src="./images/NBA_PER_PC.png" width="400" height="400" /></p>
 
+### E-commerce Regression
+*[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/E-commerce-Regressor/blob/main/E-commerce%20Regression.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/E-commerce-Regressor)*
+
+Predicting the yearly amoutn spent by customers. Obtained a best model that had an RMSE of 8.522 (standard deviation of target column is ~79) and an R2 score of ~98%. Small dataset of customer information used to predict the Yearly amount spent by customers.
+- Pandas and seaborn used for data manipulation and visualization
+- Sci-kit Learn and XGBoost used for model training and predicting
+  - LinearRegressor, DecisionTree Regressor, and ElasticNet used from SK-Learn
+  - XGBRegressor used from XGBoost
+
+<p><img src="./images/e-regressor.PNG" width="400" height="225" /></p>
+
 ----
 
 ## Classification Problems
