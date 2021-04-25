@@ -82,3 +82,15 @@ Analysis of Data Scientists who changed their jobs. Created a classifier with an
 <p><hr style="border:2px solid black" /></p>
 
 _Further detail for all projects can be found by clicking (CTRL + click for new tab) their respective **Repository** links found beneath the title of every project. To view the notebooks where the code was written please click on the **Notebook** link which will show you the notebook using JupyterLab's online interface (nbviewer)._ 
+
+<p><hr style="border:2px solid black" /></p>
+
+## Encyption Algorithms 
+
+### RSA
+*[Script](https://github.com/Ibrahim-Wasti/Encryptions/blob/main/rsa.py)*
+
+Created an RSA encryption/decryption script for practice with encryption/decryption
+- Max size for keys is 2^32 which is much smaller than industry standards, but this was for practice so to make sure things were fast the max size was capped
+- Implemented different mathematical checks, such as RabinMiller and a standard prime numbers check 
+
