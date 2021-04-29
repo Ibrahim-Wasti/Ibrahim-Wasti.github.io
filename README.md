@@ -80,6 +80,7 @@ Created a sentiment classifier for book reviews on Amazon using the following to
   - GridSearchCV for hyperparameter tuning for the SVM model as it performed the best at base
   - Pickle for saving and exporting the model
 
+<p><img src="./images/AmazonCLF.PNG" width="275" height="85" /></p>
 
 ### HR Analytics: Data Scientists who change their jobs - Classification
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/DataScience-HR-Analytics/blob/main/Data%20Science%20HR%20Analytics%20EDA.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/DataScience-HR-Analytics)*
