@@ -70,6 +70,17 @@ Predicting the yearly amoutn spent by customers. Obtained a best model that had 
 
 ## Classification Problems
 
+### Amazon Book Reviews - Sentiment Classification
+*[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Amazon-Reviews-Classifier/blob/main/amazon-ml-proj.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/Amazon-Reviews-Classifier)*
+
+Created a sentiment classifier for book reviews on Amazon using the following tools and methods:
+  - Pandas, numpy, and json to load, manipulate, and prepare the data for training
+  - Bag of words vectorization was used for training using the TFIFD vectorizer provided in the Sci-kit learn library
+  - Used SVC, Decision Tree, Gaussian Naive Bayes, and Logistic Regression as base models before tuning.
+  - GridSearchCV for hyperparameter tuning for the SVM model as it performed the best at base
+  - Pickle for saving and exporting the model
+
+
 ### HR Analytics: Data Scientists who change their jobs - Classification
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/DataScience-HR-Analytics/blob/main/Data%20Science%20HR%20Analytics%20EDA.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/DataScience-HR-Analytics)*
 
