@@ -91,6 +91,16 @@ Analysis of Data Scientists who changed their jobs. Created a classifier with an
 
 <p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p>
 
+----
+
+## Finance Projects
+
+### Portfolio Optimization
+
+### Quantitative Value Screener
+
+### Quantitative Momentum Screener
+
 <p><hr style="border:2px solid black" /></p>
 
 _Further detail for all projects can be found by clicking (CTRL + click for new tab) their respective **Repository** links found beneath the title of every project. To view the notebooks where the code was written please click on the **Notebook** link which will show you the notebook using JupyterLab's online interface (nbviewer)._ 
