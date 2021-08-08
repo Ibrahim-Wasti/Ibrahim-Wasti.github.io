@@ -85,7 +85,13 @@ Created a sentiment classifier for book reviews on Amazon using the following to
 ### HR Analytics: Data Scientists who change their jobs - Classification
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/DataScience-HR-Analytics/blob/main/Data%20Science%20HR%20Analytics%20EDA.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/DataScience-HR-Analytics)*
 
-Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group. The dataset had many features such as, city, experience, education level, etc. I used XGBoost to create the model, and Pandas and Seaborn to visualize and explore the data.  The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
+Analysis of Data Scientists who changed their jobs. Created a classifier with an overall accuracy of 80% and high recall and precision for target group.
+  - Loaded, manipulated, and prepared the data for exploration using Pandas.
+  - Exploratory data analysis conducted using Pandas and visualizations done using Seaborn and Matplotlib.
+  - Prepared the data for classification using Scikit Learn.
+  - Created a Calssifier with XGBoost, and performed hyperparameter tuning using GridSearch and cross validation.
+ 
+The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
 
