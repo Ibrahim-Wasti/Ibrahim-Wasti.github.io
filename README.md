@@ -112,11 +112,11 @@ Program that uses the Sharpe Ratio to retrun recommendations for an optimized pr
     - Graph: predefined as False. If True then will return a time series graph for each ticker in the tickers list
     - Verbose: predefined as True and will return Expected Annual returns, Vaolatility, & Volume in addition to the Sharpe Ratio an drecommendations. If False, will only return Sharpe ratio and recommendations.
 
-*Pulls data from the av-daily-adjusted API*
+*Pulls data from the Alpha Vantage (av-daily-adjusted) API*
 
-### Quantitative Value Screener
+<!--- ### Quantitative Value Screener
 
-### Quantitative Momentum Screener
+### Quantitative Momentum Screener --->
 
 <p><hr style="border:2px solid black" /></p>
 
