@@ -10,19 +10,19 @@ This portfolio is a compilation of notebooks which I used for exploratory data a
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Sales-Data-Analysis/blob/main/Sales_Analysis.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/Sales-Data-Analysis)*
 
 Project done for class, an analysis of sales for 2019 of an e-commerce company. Merged 12 files of sales data into one dataframe using the OS and Pandas libraries. Visualizations were created using MatPlotLib. Answered different questions to gain insights into the data and come to conclusions that would effect the company's strategy in marketing and staffing.
+#
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/SalesAnalysis.png" width="500" height="400" /></p> --->
-
-<p><img src="./images/SalesAnalysis.png" width="500" height="400" /></p>
+<!--- <p><img src="./images/SalesAnalysis.png" width="500" height="400" /></p> --->
 
 ### Netflix: Movies & TV Shows 
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA/blob/main/Netflix%20TV%20Shows%20%26%20Movies%20EDA.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/Netflix-Movies-and-TV-Shows-EDA)*
 
 This was a dataset which provided information on different aspects of the content on Netflix, from the director and cast to the availability by country. Tasks were to show top acotrs/directors, top countries by number of productions, amount of content for each age group, etc. All these questions were answered uding a combination of Pandas, Seaborn, and Matplotlib. The general datset and more information can be found on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
+#
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NEtflix-g.png" width="500" height="400" /></p> --->
-
-<p><img src="./images/NEtflix-g.png" width="500" height="400" /></p> 
+<!--- <p><img src="./images/NEtflix-g.png" width="500" height="400" /></p> --->
 
 ### Sales & Marketing Dashboard using Power BI
 *[Repository](https://github.com/Ibrahim-Wasti/Dashboard-with-PowerBI)*
@@ -34,8 +34,7 @@ Created a Power BI dashboard in accordance with businees request from client:
 Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo). Created a data model in Power BI and prepared the data for visualization and analysis. Visualized the different parameters and metrics using a variety of charts, graphs, and other tools available through Power BI.
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/Dashboad.PNG" width="475" height=275" /></p> --->
-
-<p><img src="./images/Dashboad.PNG" width="475" height="275" /></p> 
+<!--- <p><img src="./images/Dashboad.PNG" width="475" height="275" /></p> --->
 
 ----
 
@@ -50,10 +49,10 @@ Used BeautifulSoup4, requests, and regex libraries to scrape the ESPN Hollinger 
 - Used seaborn and IQR to get rid of outliers in the dataset, this increased the accuracy of the final model.
 - Modelled using SK-Learn for a base accuracy score (measured by RMSE) to see if XGB would give better results.
 - XGB Regressor performed with a higher accuracy (lower RMSE) than the SK-Learn model.
+#
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/NBA_PER_PC.png" width="400" height="400" /></p> --->
-
-<p><img src="./images/NBA_PER_PC.png" width="400" height="400" /></p>
+<!--- <p><img src="./images/NBA_PER_PC.png" width="400" height="400" /></p> --->
 
 ### E-commerce Regression
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/E-commerce-Regressor/blob/main/E-commerce%20Regression.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/E-commerce-Regressor)*
@@ -64,7 +63,7 @@ Predicting the yearly amoutn spent by customers. Obtained a best model that had 
   - LinearRegressor, DecisionTree Regressor, and ElasticNet used from SK-Learn
   - XGBRegressor used from XGBoost
 
-<p><img src="./images/e-regressor.PNG" width="400" height="225" /></p>
+<!--- <p><img src="./images/e-regressor.PNG" width="400" height="225" /></p> --->
 
 ----
 
@@ -79,8 +78,9 @@ Created a sentiment classifier for book reviews on Amazon using the following to
   - Used SVC, Decision Tree, Gaussian Naive Bayes, and Logistic Regression as base models before tuning.
   - GridSearchCV for hyperparameter tuning for the SVM model as it performed the best at base
   - Pickle for saving and exporting the model
+#
 
-<p><img src="./images/AmazonCLF.PNG" width="275" height="85" /></p>
+<!--- <p><img src="./images/AmazonCLF.PNG" width="275" height="85" /></p> --->
 
 ### HR Analytics: Data Scientists who change their jobs - Classification
 *[Notebook](https://nbviewer.jupyter.org/github/Ibrahim-Wasti/DataScience-HR-Analytics/blob/main/Data%20Science%20HR%20Analytics%20EDA.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/DataScience-HR-Analytics)*
@@ -94,8 +94,7 @@ Analysis of Data Scientists who changed their jobs. Created a classifier with an
 The general datset and more information can be found on [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). 
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
-
-<p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p>
+<!--- <p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
 
 ----
 
@@ -113,6 +112,7 @@ Program that uses the Sharpe Ratio to retrun recommendations for an optimized pr
     - Verbose: predefined as True and will return Expected Annual returns, Vaolatility, & Volume in addition to the Sharpe Ratio an drecommendations. If False, will only return Sharpe ratio and recommendations.
 
 *Pulls data from the Alpha Vantage (av-daily-adjusted) API*
+#
 
 <!--- ### Quantitative Value Screener
 
