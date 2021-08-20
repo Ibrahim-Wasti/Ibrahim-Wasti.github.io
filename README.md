@@ -120,6 +120,18 @@ Program that uses the Sharpe Ratio to retrun recommendations for an optimized pr
 
 <p><hr style="border:2px solid black" /></p>
 
+## Other Projects
+
+<!-- ### Chess Engine 
+
+Chess engine created in Python using Pygame.
+
+- Created the game board and implemented the rules of chess using a 2D array and indexing to define piece locations, possible moves, and all valid (allowed) moves.
+- The engine uses Negamax algorithm with alpha-beta pruning to increase efficiency
+- The scoring algorithm is made up of piece value, positional value, the amount of threats, pins, and checks each move can do as well bonuses for special moves such as castling
+- 
+--->
+
 _Further detail for all projects can be found by clicking (CTRL + click for new tab) their respective **Repository** links found beneath the title of every project. To view the notebooks where the code was written please click on the **Notebook** link which will show you the notebook using JupyterLab's online interface (nbviewer)._ 
 
 <p><hr style="border:2px solid black" /></p>
