@@ -80,6 +80,18 @@ Program that uses the Sharpe Ratio to retrun recommendations for an optimized pr
 *Pulls data from the Alpha Vantage (av-daily-adjusted) API*
 #
 
+### S&P 500 Equal Weight Screener
+
+Program that will provide a formatted Excel workbook with 4 columns, Ticker, Price per Share, Market Cap, and Number of shares to buy. This is an equal weight screener, meaning all tickers have the same wieght.
+
+Inputs:
+  1) Batch_size: the allowed batch_size for the API, or any number less than the max allowed by the API. (tThis program uses ALpha Vantage which has batch call max of 100)
+  2) Portfolio_size: The amount in USD that will be invested 
+  3) Export: export is predefined as False, however if defined as True then an Excel workbook will be created
+    - The only input required is the name of the file to be written
+  *Note: The workbook will be saved in the same working directory/folder as the program*
+#
+
 <!--- ### Quantitative Value Screener
 
 ### Quantitative Momentum Screener --->
