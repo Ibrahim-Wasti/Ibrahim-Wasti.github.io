@@ -94,10 +94,18 @@ Inputs:
 
 <!--- ### Quantitative Value Screener
 
-### Quantitative Momentum Screener --->
+### Quantitative Momentum Screener 
+
+### 3 Statement Model Builder
+
+Script to creat and save a  3-statemnet model (Income statment, balance sheet, & Cash flow statemnt) pulling information from the Alpha Vantage API, and saving as an Excel workbook.
+
+  1) Takes as Input a ticker symbol (eg. aapl), and number of periods (eg. 5).
+  2) Creates dataframes using pandas with all relevant information for each statement (aka each sheet in the Excel Workbook)
+  3) Writes to an Excel workbook with a predefined formatting and saves this xlsx file in the same folder where the script is being run.
 
 <p><hr style="border:2px solid black" /></p>
-
+-->
 ## Exploratory Analytics Projects
 
 ### Sales Analysis 
