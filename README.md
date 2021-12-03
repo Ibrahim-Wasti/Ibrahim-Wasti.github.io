@@ -143,6 +143,7 @@ Extracted the data from Microsoft SQL Serever (Queries can be fouind in the repo
 ## Other Projects
 
 ### Chess Engine 
+*[Repository](https://github.com/Ibrahim-Wasti/Chess)*
 
 Chess engine created in Python using Pygame for the GUI.
 
