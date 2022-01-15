@@ -156,6 +156,21 @@ Chess engine created in Python using Pygame for the GUI.
 - Created the game board and implemented the rules of chess using a 2D array and indexing to define piece locations, possible moves, and all valid (allowed) moves
 - Implemented NegaMax algorithm with alpha-beta pruning to increase efficiency and turn depth allowing for stronger moevs to be played
 - The scoring algorithm consists of piece values, positional value, the amount of threats, pins, and checks each move creates as well bonuses for special moves such as castling and pawn promotion
+#
+
+### Backend Development - Web App
+*[Repository] (https://github.com/Ibrahim-Wasti/fastapi)*
+
+Basic backend development for any Web App using FastAPI, PostgreSQL, SQLAlchemy, and Alembic to create and interact with the database instance.
+
+- FastAPI usage: 
+   - Implementation of CRUD operations, such as, creating a user, updating a post, deleting a post, and fethcing/reading a post.
+   - Authentication done using Bearet tokens with JWT encryption
+- SQLalchemy & PostgreSQL:
+  - SQLalchemy used for building tables and communicating with the PostgreSQL insatnce
+  - PostgresSQL used for storing all the information in tables such as Users, Posts, etc.
+- Alembic:
+  - UPdating tables, shcemas, etc. without having to go through PostgreSQL
 
 ---
 
