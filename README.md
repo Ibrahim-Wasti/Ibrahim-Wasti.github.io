@@ -164,7 +164,7 @@ Chess engine created in Python using Pygame for the GUI.
 Basic backend development for any Web App using FastAPI, PostgreSQL, SQLAlchemy, and Alembic to create and interact with the database instance.
 
 - FastAPI usage: 
-   - Implementation of CRUD operations, such as, creating a user, updating a post, deleting a post, and fethcing/reading a post.
+   - Implementation of CRUD operations, such as, creating a user, updating a post, deleting a post, and fetching/reading a post.
    - Authentication done using Bearet tokens with JWT encryption
 - SQLalchemy & PostgreSQL:
   - SQLalchemy used for building tables and communicating with the PostgreSQL insatnce
