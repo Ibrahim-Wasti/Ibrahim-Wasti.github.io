@@ -170,7 +170,7 @@ Basic backend development for any Web App using FastAPI, PostgreSQL, SQLAlchemy,
   - SQLalchemy used for building tables and communicating with the PostgreSQL instance
   - PostgresSQL used for storing all the information in tables such as Users, Posts, etc.
 - Alembic:
-  - UPdating tables, schemas, etc. without having to go through PostgreSQL
+  - Updating tables, schemas, etc. without having to go through PostgreSQL
 
 ---
 
