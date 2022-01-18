@@ -167,10 +167,10 @@ Basic backend development for any Web App using FastAPI, PostgreSQL, SQLAlchemy,
    - Implementation of CRUD operations, such as, creating a user, updating a post, deleting a post, and fetching/reading a post.
    - Authentication done using Bearet tokens with JWT encryption
 - SQLalchemy & PostgreSQL:
-  - SQLalchemy used for building tables and communicating with the PostgreSQL insatnce
+  - SQLalchemy used for building tables and communicating with the PostgreSQL instance
   - PostgresSQL used for storing all the information in tables such as Users, Posts, etc.
 - Alembic:
-  - UPdating tables, shcemas, etc. without having to go through PostgreSQL
+  - UPdating tables, schemas, etc. without having to go through PostgreSQL
 
 ---
 
