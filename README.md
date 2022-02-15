@@ -159,7 +159,7 @@ Chess engine created in Python using Pygame for the GUI.
 #
 
 ### Backend Development - Web App
-*[Repository] (https://github.com/Ibrahim-Wasti/fastapi)*
+*[Repository](https://github.com/Ibrahim-Wasti/fastapi)*
 
 Basic backend development for any Web App using FastAPI, PostgreSQL, SQLAlchemy, and Alembic to create and interact with the database instance.
 
