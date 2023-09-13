@@ -77,7 +77,7 @@ Predicting the yearly amoutn spent by customers. Obtained a best model that had 
 
 ----
 
-##Machine Learning
+## Machine Learning
 
 ### PyTorch Exploration and Learning
 *[Repository](https://github.com/Ibrahim-Wasti/LearningPyTorch)*
