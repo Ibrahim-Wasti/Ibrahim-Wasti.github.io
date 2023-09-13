@@ -77,6 +77,23 @@ Predicting the yearly amoutn spent by customers. Obtained a best model that had 
 
 ----
 
+##Machine Learning
+
+### PyTorch Exploration and Learning
+*[Repository](https://github.com/Ibrahim-Wasti/LearningPyTorch)*
+
+Repository exploring PyTorch and creating models from scratch as well as using preexisiting moidels such as FashionMNISTModel
+
+- Series of notebooks going through PyTorch and learning how to implement the different models available
+- Nn_classification_linear: notebook going over the linear classification model created using nn.Model and Sequential. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/nn_classification_linear.ipynb)
+- Nn_classification_multiclass: notebook going over the multiclass classification model created using nn.Linear feeding into other nn.Linear layers and implementing optimizer and loss function.
+- Vision: creating a model to conduct image classification using the different FashionMNISTModel from V0-V2. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/vision.ipynb)
+- Workflow: Notebook going over general best practices for using PyTorch to create different models, testing them, and saving them to be used in other projects. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/workflow.ipynb)
+- Helper_functions: functions used across multiple notebooks such as plotting model predictions, saving and downloading models etc. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/helper_functions.py)
+
+
+----
+
 ## Finance Projects
 
 ### Portfolio Optimization
