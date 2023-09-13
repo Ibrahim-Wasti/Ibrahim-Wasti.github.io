@@ -1,6 +1,6 @@
 ## Data Analytics Portfolio by Ibrahim Wasti
 
-This portfolio is a compilation of notebooks which I used for exploratory data analysis, dashboard creation, and building models. Each section will have different projects.
+This portfolio is a compilation of notebooks which I used for exploratory data analysis, dashboard creation, database management, and building models. Each section will have different projects.
 
 ----
 
@@ -32,6 +32,19 @@ The general datset and more information can be found on [Kaggle](https://www.kag
 
 <!--- <p><img src="https://github.com/Ibrahim-Wasti/Ibrahim_Wasti_Portfolio/blob/main/images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
 <!--- <p><img src="./images/HR-Analytics-cm.png" width="500" height="300" /></p> --->
+
+### Rock CLimbing Shoes Scraper & Company Classification
+*[Repository](https://github.com/Ibrahim-Wasti/RockClimbingShoes)*
+
+Scraper to collect and store information on Rocking CLimbing shoes from various manufacturers. Cleaning, transforming, and mainpulating that data to create a model that can classify the shoe manufacturer from a few features.
+- Built a web scraper to collect data on climbing shoes from REI.com, such as price, shoe, rubber, etc.
+- Collected this data into a csv and ingested into the analysis notebook
+- Used pandas to view the data and determine its quality
+- Cleaned any data that needed remedying and transformed the data as needed
+- Used seaborn to visualize the data from price correlation to most popular shoes by year
+- Used XGB to create a model that can predict the maker of a shoe from the data collected
+- Images of the feature selection and model are available in the repository under source.gv.pdf and image.pdf
+
 
 ----
 
