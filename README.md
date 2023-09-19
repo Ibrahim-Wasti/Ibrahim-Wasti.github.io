@@ -91,6 +91,15 @@ Repository exploring PyTorch and creating models from scratch as well as using p
 - Workflow: Notebook going over general best practices for using PyTorch to create different models, testing them, and saving them to be used in other projects. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/workflow.ipynb)
 - Helper_functions: functions used across multiple notebooks such as plotting model predictions, saving and downloading models etc. [Notebook](https://github.com/Ibrahim-Wasti/LearningPyTorch/blob/main/helper_functions.py)
 
+### Auto Cars Data Preparation
+*[Notebook](https://github.com/Ibrahim-Wasti/DataPrepAutos/blob/main/cars_data_prep.ipynb) | [Repository](https://github.com/Ibrahim-Wasti/DataPrepAutos)*
+
+Script that ingests, cleans, and transforms data using SKLearn Pipeline to prepare it for modeling.
+- Used pandas to laod in and view the data in conjuction with Seaborn to explore the dtaa further and find any correlations or missing values
+- Used Scikit Learn to create transformers and encoeder to better prepare the data for modeling
+  - Example of an import used throughout this notebook was Pipeline which was imported from the sklearn.pipeline library, and used to transform both numerical and categorical data
+- The data at the end is ready to be used in a model to predict MPG
+
 
 ----
 
